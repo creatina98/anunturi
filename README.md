@@ -1,3 +1,3 @@
 # anunturi
 
-![Uploading web1.png…]()
+![](img/web1.png)
